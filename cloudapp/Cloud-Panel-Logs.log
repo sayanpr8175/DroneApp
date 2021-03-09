@@ -1,0 +1,52 @@
+2022-10-28 03:58:57.493  INFO [PID: 15316] - [    Test worker] c.o.cloudapp.CloudappApplicationTests    : Starting CloudappApplicationTests using Java 17.0.4.1 on DESKTOP-HPSKPK5 with PID 15316 (started by sayan in C:\Users\sayan\OneDrive\Desktop\Drone2ndTry\cloudapp)
+2022-10-28 03:58:57.493 DEBUG [PID: 15316] - [    Test worker] c.o.cloudapp.CloudappApplicationTests    : Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-10-28 03:58:57.494  INFO [PID: 15316] - [    Test worker] c.o.cloudapp.CloudappApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-10-28 03:59:00.407  INFO [PID: 15316] - [    Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-10-28 03:59:02.039  INFO [PID: 15316] - [    Test worker] c.o.cloudapp.CloudappApplicationTests    : Started CloudappApplicationTests in 5.445 seconds (JVM running for 7.413)
+2022-10-28 04:00:27.887  INFO [PID: 18072] - [           main] com.odafa.cloudapp.CloudappApplication   : Starting CloudappApplication using Java 17.0.4.1 on DESKTOP-HPSKPK5 with PID 18072 (C:\Users\sayan\OneDrive\Desktop\Drone2ndTry\cloudapp\build\libs\cloudapp-0.0.1-SNAPSHOT.jar started by sayan in C:\Users\sayan\OneDrive\Desktop\Drone2ndTry\cloudapp)
+2022-10-28 04:00:27.890 DEBUG [PID: 18072] - [           main] com.odafa.cloudapp.CloudappApplication   : Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-10-28 04:00:27.891  INFO [PID: 18072] - [           main] com.odafa.cloudapp.CloudappApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-10-28 04:00:29.749  INFO [PID: 18072] - [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2022-10-28 04:00:29.763  INFO [PID: 18072] - [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-28 04:00:29.763  INFO [PID: 18072] - [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-10-28 04:00:29.900  INFO [PID: 18072] - [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-28 04:00:29.900  INFO [PID: 18072] - [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1871 ms
+2022-10-28 04:00:30.348  INFO [PID: 18072] - [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-10-28 04:00:31.688  INFO [PID: 18072] - [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2022-10-28 04:00:31.713  INFO [PID: 18072] - [           main] com.odafa.cloudapp.CloudappApplication   : Started CloudappApplication in 5.284 seconds (JVM running for 6.019)
+2022-10-28 04:12:00.659  INFO [PID: 11884] - [    Test worker] c.o.cloudapp.CloudappApplicationTests    : Starting CloudappApplicationTests using Java 17.0.4.1 on DESKTOP-HPSKPK5 with PID 11884 (started by sayan in C:\Users\sayan\OneDrive\Desktop\Drone2ndTry\cloudapp)
+2022-10-28 04:12:00.659 DEBUG [PID: 11884] - [    Test worker] c.o.cloudapp.CloudappApplicationTests    : Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-10-28 04:12:00.660  INFO [PID: 11884] - [    Test worker] c.o.cloudapp.CloudappApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-10-28 04:12:03.634  INFO [PID: 11884] - [    Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-10-28 04:12:05.463  INFO [PID: 11884] - [    Test worker] c.o.cloudapp.CloudappApplicationTests    : Started CloudappApplicationTests in 5.503 seconds (JVM running for 7.551)
+2022-10-28 04:12:10.947  INFO [PID: 2672] - [           main] com.odafa.cloudapp.CloudappApplication   : Starting CloudappApplication using Java 17.0.4.1 on DESKTOP-HPSKPK5 with PID 2672 (C:\Users\sayan\OneDrive\Desktop\Drone2ndTry\cloudapp\build\libs\cloudapp-0.0.1-SNAPSHOT.jar started by sayan in C:\Users\sayan\OneDrive\Desktop\Drone2ndTry\cloudapp)
+2022-10-28 04:12:10.951 DEBUG [PID: 2672] - [           main] com.odafa.cloudapp.CloudappApplication   : Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-10-28 04:12:10.951  INFO [PID: 2672] - [           main] com.odafa.cloudapp.CloudappApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-10-28 04:12:13.819  INFO [PID: 2672] - [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2022-10-28 04:12:13.859  INFO [PID: 2672] - [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-28 04:12:13.860  INFO [PID: 2672] - [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-10-28 04:12:14.090  INFO [PID: 2672] - [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-28 04:12:14.091  INFO [PID: 2672] - [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3001 ms
+2022-10-28 04:12:14.751  INFO [PID: 2672] - [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-10-28 04:12:16.530  INFO [PID: 2672] - [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2022-10-28 04:12:16.562  INFO [PID: 2672] - [           main] com.odafa.cloudapp.CloudappApplication   : Started CloudappApplication in 6.86 seconds (JVM running for 7.874)
+2022-10-28 04:12:21.206  INFO [PID: 2672] - [p-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-28 04:12:21.206  INFO [PID: 2672] - [p-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-10-28 04:12:21.207  INFO [PID: 2672] - [p-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-10-28 04:12:21.261 DEBUG [PID: 2672] - [p-nio-80-exec-1] c.o.cloudapp.controller.BaseController   : Index page opened
+2022-10-28 05:59:19.790  INFO [PID: 17464] - [    Test worker] c.o.cloudapp.CloudappApplicationTests    : Starting CloudappApplicationTests using Java 17.0.4.1 on DESKTOP-HPSKPK5 with PID 17464 (started by sayan in C:\Users\sayan\OneDrive\Desktop\Drone2ndTry\cloudapp)
+2022-10-28 05:59:19.792 DEBUG [PID: 17464] - [    Test worker] c.o.cloudapp.CloudappApplicationTests    : Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-10-28 05:59:19.793  INFO [PID: 17464] - [    Test worker] c.o.cloudapp.CloudappApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2022-10-28 05:59:21.772  INFO [PID: 17464] - [    Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-10-28 05:59:23.261  INFO [PID: 17464] - [    Test worker] c.o.cloudapp.CloudappApplicationTests    : Started CloudappApplicationTests in 4.124 seconds (JVM running for 5.893)
+2022-10-28 05:59:28.781  INFO [PID: 8176] - [           main] com.odafa.cloudapp.CloudappApplication   : Starting CloudappApplication using Java 17.0.4.1 on DESKTOP-HPSKPK5 with PID 8176 (C:\Users\sayan\OneDrive\Desktop\Drone2ndTry\cloudapp\build\libs\cloudapp-0.0.1-SNAPSHOT.jar started by sayan in C:\Users\sayan\OneDrive\Desktop\Drone2ndTry\cloudapp)
+2022-10-28 05:59:28.787 DEBUG [PID: 8176] - [           main] com.odafa.cloudapp.CloudappApplication   : Running with Spring Boot v2.7.5, Spring v5.3.23
+2022-10-28 05:59:28.787  INFO [PID: 8176] - [           main] com.odafa.cloudapp.CloudappApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-10-28 05:59:31.021  INFO [PID: 8176] - [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 90 (http)
+2022-10-28 05:59:31.031  INFO [PID: 8176] - [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-10-28 05:59:31.031  INFO [PID: 8176] - [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-10-28 05:59:31.151  INFO [PID: 8176] - [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-10-28 05:59:31.151  INFO [PID: 8176] - [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2238 ms
+2022-10-28 05:59:31.525  INFO [PID: 8176] - [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2022-10-28 05:59:32.730  INFO [PID: 8176] - [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 90 (http) with context path ''
+2022-10-28 05:59:32.751  INFO [PID: 8176] - [           main] com.odafa.cloudapp.CloudappApplication   : Started CloudappApplication in 5.279 seconds (JVM running for 5.941)

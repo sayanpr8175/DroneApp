@@ -1,0 +1,56 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+
+<link rel="stylesheet" type="text/css" href="/webjars/bootstrap/css/bootstrap.min.css" />
+<script type="text/javascript" src="/webjars/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="/webjars/bootstrap/js/bootstrap.min.js"></script>
+
+<!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAKvdklCWlOEBirFt_qu5Wy2EMjKwz0EXo"></script> -->
+<!-- <script type="text/javascript" src="/js/ui-components.js"></script> -->
+<!-- <script type="text/javascript" src="/js/library.js"></script>
+<script type="text/javascript" src="/js/app.js"></script> -->
+
+<!-- <link rel="stylesheet" type="text/css" href="/css/app.css" /> -->
+
+<script type="text/javascript" src="/js/library.js"></script>
+
+
+ <script th:inline="javascript"> 
+
+const HOST_NAME	     = [[${publicIp}]]
+const DRONE_ID       = [[${droneId}]]
+const VIDEO_ENDPOINT = [[${videoEndpoint}]]
+  
+const videoStreamClient = new VideoStreamClient(DRONE_ID, HOST_NAME, 90, VIDEO_ENDPOINT)
+
+$(document).ready( function(){
+
+  //console.log("I am inside ready")
+
+  // $("img").attr("id", "video" + DRONE_ID)
+
+  $("img").attr("id", "video"+DRONE_ID)
+
+  videoStreamClient.activateStream()
+  
+  //console.log("activated stream")
+
+});
+  
+</script> 
+
+
+
+
+
+<title>ODAFA - Operate Drones Anywhere From Anywhere</title> 
+
+</head>
+
+<body>  
+    <!-- <h1>ODAFA IS ONLINE </h1>	 -->
+
+    <img style="width: 100%;" />
+
+</body>
+</html> 
