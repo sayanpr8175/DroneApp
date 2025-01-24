@@ -5,8 +5,8 @@ The cloudApp-raspi is for the Raspberry Pi, which will be onboarded on the drone
 
 Main resource followed -
 
-https://www.udemy.com/course/make_a_drone/
-https://www.udemy.com/course/lets-build-startup-for-remote-4g-drone-operations/
-Youtube
+- https://www.udemy.com/course/make_a_drone/
+- https://www.udemy.com/course/lets-build-startup-for-remote-4g-drone-operations/
+- Youtube
 
 
